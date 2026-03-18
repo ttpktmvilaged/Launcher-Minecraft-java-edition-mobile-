@@ -29,3 +29,5 @@ https://github.com/user-attachments/assets/9d11d2da-3111-4867-a78d-a3a06c1f6c12
 
 
 chạy ổn định một số mod đang gặp lỗi 
+
+và thêm bộ bàn phím mặc định linh hoạt 
